@@ -16,11 +16,10 @@ Beyond my academic commitments, I've independently undertaken several projects, 
 
 My GitHub profile, where I've completed 1K commits, and a LinkedIn network of over 4K followers reflect my active engagement and contribution to the tech community. I've earned certifications in my areas of expertise, and I'm continually expanding my knowledge through platforms like CodePen, Kaggle, freecodecamp, and AI tools such as ChatGPT, BlackBox, Google Bart, GitHub Copolite, and Bing.
 
-Participating and winning in hackathons is not just a pastime but a testament to my problem-solving abilities. I've emerged victorious in events like KIMO, ACCIOSAT, and actively participated in FLIPKART GRID, SmartHackthon by Walmart, TCS hackathons, and more.
+Participating and winning in hackathons is not just a pastime but a testament to my problem-solving abilities. I've emerged victorious in events like KIMO, and ACCIOSAT, and actively participated in FLIPKART GRID, SmartHackthon by Walmart, TCS hackathons, and more.
 
 Attending workshops is a passion, with recent ones at IIT Hyderabad (Data Science) and IIIT Hyderabad (Social Networks). I'm not just seeking professional growth; I'm actively contributing to and shaping the ever-evolving tech landscape.
 
-======================================================================================================================================
 
 
 ## Why We Should Hire You?
@@ -36,7 +35,6 @@ I've been on the job for 11 months, and trust me, that's something not many folk
 
 I'm not just about doing my thing; I know the value of teamwork. I'm confident that my mix of experience, skills, and team spirit make me a solid choice for the Software Development Engineer role here."
 
-======================================================================================================================================
 
 ## Salary Expectation
 
