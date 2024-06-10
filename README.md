@@ -6,7 +6,7 @@ Self Intro
 
 
 Hello and thank you for this opportunity.
-My name is M.D Abdul Gafoor, and I'm currently in my final year at TKR College of Engineering and Technology. My family, consisting of my beloved mom, respected dad, and caring sister, forms the core of my support system.
+My name is M.D Abdul Gafoor, and I'm recently graduated from TKR College of Engineering and Technology. My family, consisting of my beloved mom, respected dad, and caring sister, forms the core of my support system.
 
 Throughout my academic journey, I've donned multiple hats, exploring various domains such as Data Analysis, Data Science, Software Development (both front-end and back-end), and Data Engineering. I've gained practical experience through internships and apprenticeships, accumulating over 11 months of valuable insights at esteemed organizations like SDE-Walmart, Cognizant, JP Morgan, Goldman Sachs, LYFT, KPMG, TCS, and Excelerate.
 
